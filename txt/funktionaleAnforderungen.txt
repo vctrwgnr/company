@@ -1,0 +1,24 @@
+funktionale Anforderungen
+event: load tabelle.php
+Struktur erstellen index.php mit tabelle.php als Startseite
+in index.php Einbinden vom view schreiben
+in tabelle.php Tabellenstruktur schreiben
+navigation schreiben und in tabelle.php einbinden
+Datenbank mit 1 Tabelle erstellen
+2 Dummydaten einfügen
+Datenbankanschluss einrichten
+Klasse Mitarbeiter erstellen
+Konstruktor und GETTER-/(SETTER) -Methoden schreiben
+alle Datensätze als Objekte erstellen
+Daten in tabelle.php in table eintragen lassen
+Funktionstest
+event: delete in tabelle.php
+in index.php in $action Fallunterscheidung "delete" einbauen
+in Mitarbeiter die Löschmethode ($id) schreiben
+nach dessen Aufruf Tabelle mitarbeiter auslesn und Daten in tabelle.php in table eintragen lassen
+event: neuen Mitarbeiter in Datenbanktabelle eintragen
+eingabe.php erstellen, navigation einbinden
+4 Inputfelder erstellen, action-hiddenfeld erstellen
+index.php erweitern um action === insert
+Methode insert in Klasse Mitarbeiter schreiben, Mitarbeiterobjekt zurückgeben
+tabelle.php einbinden
